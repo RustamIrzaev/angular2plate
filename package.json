@@ -1,14 +1,14 @@
 {
   "name": "angular2plate",
   "version": "0.2.3",
-  "description": "description",
+  "description": "Simple starter kit for Angular2+Webpack+Sass",
   "scripts": {
     "typings": "./node_modules/.bin/typings",
     "dev": "./node_modules/.bin/webpack-dev-server --inline --port 8080 --content-base ./src",
     "build": "./node_modules/.bin/webpack --progress --colors"
   },
   "keywords": [
-    "keyword"
+    "angular2"
   ],
   "author": "Rustam Irzaev",
   "license": "MIT",
